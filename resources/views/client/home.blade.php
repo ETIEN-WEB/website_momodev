@@ -138,10 +138,10 @@
       </div>
       <div class="row">
         <div class="col-lg-3 col-6 logo-view">
-          <img src="{{asset('frontend/images/logo1.jpg')}}" alt="company-logo" class="img-fluid" />
+          <img src="{{asset('frontend/images/logors.jpg')}}" alt="company-logo" class="img-fluid" />
         </div>
         <div class="col-lg-3 col-6 logo-view">
-          <img src="{{asset('frontend/images/logo2.jpg')}}" alt="company-logo" class="img-fluid" />
+          <img src="{{asset('frontend/images/logo-sophia.jpg')}}" alt="company-logo" class="img-fluid" />
         </div>
         <div class="col-lg-3 col-6 logo-view">
           <img src="{{asset('frontend/images/logo3.jpg')}}" alt="company-logo" class="img-fluid" />
