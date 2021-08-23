@@ -1,0 +1,92 @@
+.deu_fond_departement {
+    background-color: white;
+    padding: 45px 15px;
+    
+}
+
+.fond2
+{
+    background-color: #f5f5f5;
+}
+.deu_fond_departement .img_departement {
+    display: flex;
+    
+    overflow: hidden;
+    margin: auto;
+}
+
+.deu_fond_departement .img_departementes 
+{
+    display: flex;
+    overflow: hidden;
+    margin: auto;
+}
+
+.deu_fond_departement .img_departementes img
+{
+    height: 100%;
+    margin: auto;
+    
+    object-fit: contain;
+}
+
+.img_departement img {
+    height: 100%;
+    margin: auto;
+    overflow: hidden;
+    object-fit: contain;
+}
+
+.text_departement {
+    text-align: center !important;;
+    vertical-align: middle;
+    font-size: 25px;
+    line-height: 1.0;
+    font-family: Montserrat;
+    
+    display: table-cell;
+    height: 360px;
+}
+
+.departement {
+    margin-bottom: 20px;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.listcordone{
+    text-align: justify;
+    color: black;
+    line-height: 1.1;
+    font-size: 28px;
+}
+
+.ligne_img
+{
+    align-items: center;
+}
+
+.header-section h1{
+    color: white;
+}
+
+.solution
+{
+    background-color: #092d81;
+    padding-top: 50px !important;
+    padding-bottom: 80px !important;
+}
+
+.header-section p
+{
+    text-align: justify;
+    color: black;
+    line-height: 1.1;
+    font-size: 28px;
+    max-width: 915px;
+    margin-top: 12px;
+}
+
+
+
+

@@ -1,0 +1,223 @@
+.header-section p {
+    max-width: 1050px;
+    margin: 0 auto;
+    color: #333;
+    font-size: 19px;
+    line-height: 29.5px;
+}
+
+.header-section p span{
+    color: #fe5143;
+}
+
+.ls-is-cached{
+    width: 170px !important;
+}
+
+.referenceent{
+    height: 170px !important;
+}
+
+.languages{
+    padding-left: 15px;
+    padding-bottom: 15px;
+}
+
+.nav-pills .nav-item a
+{
+    color: #333;
+    text-decoration: none;
+    background-color: transparent;
+    font-size: 20px;
+}
+
+.contour_nav
+{
+    text-align: center;
+    margin-left: auto !important;
+    display: block ruby;
+    margin: auto;
+    background-color: antiquewhite;
+}
+
+
+.a-img-txt{
+    display:grid; 
+    margin: auto;
+  }
+
+  .a-img{
+    margin: auto;
+  }
+  
+  .a-img-txt>*{
+    grid-area:1/1/-1/-1; 
+   
+  }
+  
+
+  .a-txt{
+    display: inherit;
+    justify-content: center;
+    align-items: center;
+    color:#fff;
+    opacity:0;
+    filter:invert(0); 
+    transition:opacity .8s;
+  }
+  
+  .c1{
+      background:#ff6600cc; 
+  }
+  
+  .c2{
+      background:#6600ffcc; 
+  }
+  
+  
+  .a-txt:hover{
+    opacity:1;
+  }
+  .a-img-txt:hover .a-img{
+    filter:invert(0);
+  }
+  
+  
+  
+  img{
+    max-width:100%;
+    height:auto;
+  }
+  a{
+    text-decoration:none;
+  }
+
+  .a-img-txt .sous_titre 
+  {
+      
+      line-height: 1;
+      font-size: 25px !important;
+  }
+
+  .head_section
+  {
+      padding-top: 40px;
+      padding-bottom: 80px;
+  }
+
+  .pg{
+      padding: 15px 0;
+  }
+
+
+  /* .etudecas.section-entreprise {
+    height: 400px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+} */
+
+.etudecas .description-wrapper {
+    background: rgba(232, 67, 36, 0.9);
+    padding: 40px 40px;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.etudecas .description-titre {
+    margin-top: 0;
+    color: #ffffff !important;
+}
+
+.etudecas .description-text {
+    font-size: 20px;
+    color: #ffffff !important;
+}
+
+
+.w3l-index1 .features-with-17-right-tp_sur {
+    text-align: center;
+    padding: 0px !important;
+    position: relative;
+    overflow: hidden;
+    transition: 0.3s ease-in-out;
+}
+
+.fond2 {
+    background-color: #f5f5f5;
+}
+
+.deu_fond_departement {
+    
+    padding: 45px 15px;
+}
+
+.ligne_img {
+    align-items: center;
+}
+
+.text_departement {
+    text-align: center !important;
+    vertical-align: middle;
+    font-size: 25px;
+    line-height: 1.0;
+    font-family: Montserrat;
+    display: table-cell;
+    height: 360px;
+}
+
+.departement {
+    margin-bottom: 20px;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.listcordone {
+    text-align: justify;
+    color: black;
+    line-height: 1.1;
+    font-size: 28px;
+}
+
+.deu_fond_departement .img_departement {
+    display: flex;
+    overflow: hidden;
+    margin: auto;
+}
+
+.img_departement img {
+    height: 100%;
+    margin: auto;
+    overflow: hidden;
+    object-fit: contain;
+}
+
+.listcordone a {
+    font-size: 18px;
+    color: blue;
+}
+
+/* .etudecas { */
+    
+    
+    /* background-image: url('asset('frontend/images/pressecotedivoirebackground.png)}}'); */
+
+   /* background-image: url(<?php echo $this->webroot . 'companyImages/bannar' . '/' . $company_page[0]['companypages']['bannar']; ?>);
+
+
+    background: url(/frontend/images/pressecotedivoirebackground.png) no-repeat center ; */
+    /*background-image: url('{{ asset('assets/images/b2b/graph-01.svg')}}');"*/
+    /* height: 400px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: relative;
+    overflow: hidden;
+    width: 100%;}            */
+
+

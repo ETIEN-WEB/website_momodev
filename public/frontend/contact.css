@@ -1,0 +1,47 @@
+.contact-infubd
+{
+    background: white;
+}
+
+.mb
+{
+    margin-bottom: 80px;
+}
+
+.mail_contact
+{
+    display: flex;
+}
+
+.inp_contact
+{
+    width: 65% !important; 
+    margin-left: 5px;
+}   
+
+.erreur_contact
+{
+    position: absolute;
+    right: 15px;
+    top: 130px;
+    margin-bottom: 4px;
+}
+
+.social
+{
+    margin-top: 12px;   
+}
+
+.w3l-header .navbar-light .navbar-nav .nav-link
+{
+    font-size: 16px !important;
+}
+
+
+@media screen and (max-width: 768px)
+{
+    .inp_contact {
+        width: 100% !important;
+        margin-top: 15px;
+    }
+}
